@@ -35,41 +35,8 @@ I'm an aspiring data analyst with hands-on experience in data cleaning, analysis
 
 ## 📊 Featured Projects
 
-### 🔍 [Customer Purchase Prediction Model](https://github.com/dishyyyyy5/PRODIGY_DS)
-**Description:** Built a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data from the Bank Marketing dataset:cite[1]. This project involved comprehensive data analysis and predictive modeling.
-
-**Key Features:**
-- Data cleaning and preprocessing of customer demographic data
-- Feature engineering and selection for model training
-- Decision tree classifier implementation and evaluation
-- Model performance analysis and interpretation
-
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-
-### 🌱 [Sustainability Rating Analysis](https://github.com/dishyyyyy5/Sustainibility-Rating)
-**Description:** A data analysis project focusing on sustainability ratings, which evaluate Environmental, Social, and Governance (ESG) factors that are increasingly important for business transparency and investor decisions:cite[5]:cite[9].
-
-**Key Features:**
-- Analysis of ESG factors and rating methodologies
-- Data processing of sustainability metrics
-- Visualization of environmental impact assessments
-- Research on sustainability reporting standards
-
-**Tech Stack:** Python, Data Analysis, ESG Metrics
-
-### 💼 [YBI Foundation Internship Projects](https://github.com/dishyyyyy5/YBI-foundation)
-**Description:** Collection of projects completed during the YBI Foundation internship program, which provides industry capstone projects and hands-on learning experiences in data science:cite[3]:cite[6].
-
-**Key Features:**
-- Multiple real-world data analysis tasks
-- Practical application of data science concepts
-- Project-based learning approach
-- Industry-relevant problem solving
-
-**Tech Stack:** Python, Data Analysis, Machine Learning
-
 ### 🌐 [Bharat Intern Tasks](https://github.com/dishyyyyy5/BharatIntern)
-**Description:** Series of tasks and projects completed as part of the Bharat Intern internship program, demonstrating practical web development and data science skills:cite[8].
+**Description:** Series of tasks and projects completed as part of the Bharat Intern internship program, demonstrating practical web development and data science skills.
 
 **Key Features:**
 - Web development projects
@@ -79,10 +46,42 @@ I'm an aspiring data analyst with hands-on experience in data cleaning, analysis
 
 **Tech Stack:** HTML, CSS, Python, Data Analysis
 
+### 🔍 [Customer Purchase Prediction Model](https://github.com/dishyyyyy5/PRODIGY_DS)
+**Description:** Built a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data from the Bank Marketing dataset. This project involved comprehensive data analysis and predictive modeling.
+
+**Key Features:**
+- Data cleaning and preprocessing of customer demographic data
+- Feature engineering and selection for model training
+- Decision tree classifier implementation and evaluation
+- Model performance analysis and interpretation
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+
+### 💼 [YBI Foundation Internship Projects](https://github.com/dishyyyyy5/YBI-foundation)
+**Description:** Collection of projects completed during the YBI Foundation internship program, which provides industry capstone projects and hands-on learning experiences in data science.
+
+**Key Features:**
+- Multiple real-world data analysis tasks
+- Practical application of data science concepts
+- Project-based learning approach
+- Industry-relevant problem solving
+
+**Tech Stack:** Python, Data Analysis, Machine Learning
+
+### 🌱 [Sustainability Rating Analysis](https://github.com/dishyyyyy5/Sustainibility-Rating)
+**Description:** A data analysis project focusing on sustainability ratings, which evaluate Environmental, Social, and Governance (ESG) factors that are increasingly important for business transparency and investor decisions.
+
+**Key Features:**
+- Analysis of ESG factors and rating methodologies
+- Data processing of sustainability metrics
+- Visualization of environmental impact assessments
+- Research on sustainability reporting standards
+
+**Tech Stack:** Python, Data Analysis, ESG Metrics
+
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishi-jain-35889225b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishij221@gmail.com)
 
 ---
 
