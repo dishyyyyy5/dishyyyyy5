@@ -1,8 +1,7 @@
-# 👋 Hello, I'm [Your Name] | Data Analyst/Engineer
+# 👋 Hello, I'm Dishy! | Data Analyst
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishyyyyy5&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishyyyyy5&layout=compact&theme=tokyonight)
   
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dishyyyyy5)
@@ -11,58 +10,84 @@
 </div>
 
 ## 🚀 About Me
-I'm a passionate data analyst/engineer with expertise in transforming raw data into meaningful insights. I love working with data pipelines, analytics, and visualization to solve real-world problems.
+I'm an aspiring data analyst with hands-on experience in data cleaning, analysis, and machine learning. Through various internships, I've developed skills in transforming raw data into meaningful insights and building predictive models to solve real-world business problems.
 
 ## 💻 Tech Stack & Tools
 
-### **Data Analysis & Engineering**
+### **Data Analysis & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### **Data Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 Featured Projects
 
-### 🔍 [Project 1 Name](https://github.com/dishyyyyy5/project1)
-Brief description of your data analysis/engineering project. What problem did it solve? What technologies did you use?
+### 🔍 [Customer Purchase Prediction Model](https://github.com/dishyyyyy5/PRODIGY_DS)
+**Description:** Built a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data from the Bank Marketing dataset:cite[1]. This project involved comprehensive data analysis and predictive modeling.
 
-**Tech:** Python, Pandas, SQL, Tableau
+**Key Features:**
+- Data cleaning and preprocessing of customer demographic data
+- Feature engineering and selection for model training
+- Decision tree classifier implementation and evaluation
+- Model performance analysis and interpretation
 
-### 🏭 [Project 2 Name](https://github.com/dishyyyyy5/project2)
-Description of your data pipeline or ETL project. What was the data flow? What insights were generated?
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
 
-**Tech:** Apache Spark, AWS, PostgreSQL
+### 🌱 [Sustainability Rating Analysis](https://github.com/dishyyyyy5/Sustainibility-Rating)
+**Description:** A data analysis project focusing on sustainability ratings, which evaluate Environmental, Social, and Governance (ESG) factors that are increasingly important for business transparency and investor decisions:cite[5]:cite[9].
 
-### 📈 [Project 3 Name](https://github.com/dishyyyyy5/project3)
-Another project description highlighting your analytical skills and technical capabilities.
+**Key Features:**
+- Analysis of ESG factors and rating methodologies
+- Data processing of sustainability metrics
+- Visualization of environmental impact assessments
+- Research on sustainability reporting standards
 
-**Tech:** Python, Machine Learning, Power BI
+**Tech Stack:** Python, Data Analysis, ESG Metrics
+
+### 💼 [YBI Foundation Internship Projects](https://github.com/dishyyyyy5/YBI-foundation)
+**Description:** Collection of projects completed during the YBI Foundation internship program, which provides industry capstone projects and hands-on learning experiences in data science:cite[3]:cite[6].
+
+**Key Features:**
+- Multiple real-world data analysis tasks
+- Practical application of data science concepts
+- Project-based learning approach
+- Industry-relevant problem solving
+
+**Tech Stack:** Python, Data Analysis, Machine Learning
+
+### 🌐 [Bharat Intern Tasks](https://github.com/dishyyyyy5/BharatIntern)
+**Description:** Series of tasks and projects completed as part of the Bharat Intern internship program, demonstrating practical web development and data science skills:cite[8].
+
+**Key Features:**
+- Web development projects
+- Data analysis tasks
+- Professional skill development
+- Internship completion certification
+
+**Tech Stack:** HTML, CSS, Python, Data Analysis
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
 <div align="center">
   
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
+⭐ **From data cleaning to predictive modeling—exploring insights through code**
 
 </div>
