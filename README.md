@@ -1,92 +1,83 @@
-# 👋 Hello, I'm Dishy! | Data Analyst
+# 👋 Hello, I'm Dishi Jain | Data Analyst
 
 <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishyyyyy5&layout=compact&theme=tokyonight)
-  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dishyyyyy5)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dishyyyyy5&theme=dracula)
 
 </div>
 
 ## 🚀 About Me
-I'm an aspiring data analyst with hands-on experience in data cleaning, analysis, and machine learning. Through various internships, I've developed skills in transforming raw data into meaningful insights and building predictive models to solve real-world business problems.
+Data Analyst skilled in SQL, Python, Excel, Tableau, and Big Data tools (Hadoop, Pig, Spark). Experienced in data pre-processing, statistical analysis, and building dashboards for business reporting. Currently pursuing Master of Computer Applications at PES University Bengaluru.
 
 ## 💻 Tech Stack & Tools
 
-### **Data Analysis & Machine Learning**
+### **Data Analysis & Programming**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
 ### **Data Visualization**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **Web Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Apache Pig](https://img.shields.io/badge/Apache_Pig-430098?style=for-the-badge&logo=apache&logoColor=white)
 
-## 📊 Featured Projects
+## 📊 Professional Experience & Projects
 
-### 🌐 [Bharat Intern Tasks](https://github.com/dishyyyyy5/BharatIntern)
-**Description:** Series of tasks and projects completed as part of the Bharat Intern internship program, demonstrating practical web development and data science skills.
+### 💼 **Deloitte Australia — Data Analytics Simulation**
+*Tableau, Excel*
+- Developed interactive Tableau dashboards for data visualization and KPI reporting
+- Cleaned, classified, and analyzed datasets in Excel to deliver actionable insights
+- Created comprehensive business reports and trend analysis for stakeholders
 
-**Key Features:**
-- Web development projects
-- Data analysis tasks
-- Professional skill development
-- Internship completion certification
+### 🔍 **Customer Purchase Prediction Model**
+*Python, Pandas, Scikit-learn, Matplotlib*
+- Built decision tree classifier to predict customer purchases using Bank Marketing dataset
+- Performed data cleaning, preprocessing, and feature engineering
+- Implemented model evaluation and performance analysis
 
-**Tech Stack:** HTML, CSS, Python, Data Analysis
+### 📈 **YBI Foundation Internship Projects**
+*Python, Data Analysis, Machine Learning*
+- Conducted requirements gathering and exploratory data analysis
+- Performed data pre-processing and statistical analysis
+- Delivered insights through comprehensive reports and presentations
 
-### 🔍 [Customer Purchase Prediction Model](https://github.com/dishyyyyy5/PRODIGY_DS)
-**Description:** Built a decision tree classifier to predict whether a customer will purchase a product or service based on demographic and behavioral data from the Bank Marketing dataset. This project involved comprehensive data analysis and predictive modeling.
+### 🌱 **Sustainability Rating Analysis**
+*Python, ESG Metrics*
+- Analyzed Environmental, Social, and Governance (ESG) factors
+- Processed sustainability metrics and rating methodologies
+- Created visualizations for environmental impact assessments
 
-**Key Features:**
-- Data cleaning and preprocessing of customer demographic data
-- Feature engineering and selection for model training
-- Decision tree classifier implementation and evaluation
-- Model performance analysis and interpretation
+### 🌐 **Bharat Intern Tasks**
+*HTML, CSS, Python, Data Analysis*
+- Completed web development and data analysis projects
+- Gained practical experience in full-stack development
+- Developed professional data science skills
 
-**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
+## 🎓 Education
+- **Master of Computer Applications (MCA)** - PES University Bengaluru *(2024–2026)*
+- **Bachelor of Computer Applications (BCA)** - Mohanlal Sukhadia University, Udaipur *(2021–2024)*
 
-### 💼 [YBI Foundation Internship Projects](https://github.com/dishyyyyy5/YBI-foundation)
-**Description:** Collection of projects completed during the YBI Foundation internship program, which provides industry capstone projects and hands-on learning experiences in data science.
-
-**Key Features:**
-- Multiple real-world data analysis tasks
-- Practical application of data science concepts
-- Project-based learning approach
-- Industry-relevant problem solving
-
-**Tech Stack:** Python, Data Analysis, Machine Learning
-
-### 🌱 [Sustainability Rating Analysis](https://github.com/dishyyyyy5/Sustainibility-Rating)
-**Description:** A data analysis project focusing on sustainability ratings, which evaluate Environmental, Social, and Governance (ESG) factors that are increasingly important for business transparency and investor decisions.
-
-**Key Features:**
-- Analysis of ESG factors and rating methodologies
-- Data processing of sustainability metrics
-- Visualization of environmental impact assessments
-- Research on sustainability reporting standards
-
-**Tech Stack:** Python, Data Analysis, ESG Metrics
+## 📜 Certifications
+- **Deloitte Australia — Data Analytics Job Simulation** (Forage) - Tableau, Excel
+- **Data Analysis — YBI Foundation** - SQL, Python, Excel
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishi-jain-35889225b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishij221@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dishyyyyy5)
 
 ---
 
 <div align="center">
   
-⭐ **From data cleaning to predictive modeling—exploring insights through code**
+⭐ **Transforming data into actionable insights through analytical expertise**
 
 </div>
